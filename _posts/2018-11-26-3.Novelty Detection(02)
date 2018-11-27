@@ -4,6 +4,8 @@ layout: post
 
 title: "Density-based Novelty Detection"
 
+category: Business Analytics
+
 tags:
 - content
 - css
@@ -22,8 +24,8 @@ last_modified_at: 2018-11-26T14:25:52-05:00
 이러한 기능은 주로 두가지로 구분할 수 있습니다. 첫째, Outlier Detection 입니다. 이는 일반적으로 가장 집중되어있는 데이터와 멀리 떨어져 있는 관측치를 특이치로 정의하는 것입니다. 
 둘째, Novelty Detection 입니다. 이는 새로운 관측지를 학습데이터로 사용하지 않으며 Outlier Detection이전에 제거될 수도 있습니다.     
 
---- 
+ 
 Novelty Detection
----
+
 
 
